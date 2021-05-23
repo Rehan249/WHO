@@ -1,4 +1,4 @@
-# WHO__
+# WHO
 
 World Health Organization (WHO) data reveals that ONE in FOUR people are affected by mental health issues like anxiety and depression. This means you might have people around you - friends, classmates at school, family members - who might be going through some of these mental health issues.
 
